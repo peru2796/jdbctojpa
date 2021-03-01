@@ -1,0 +1,1 @@
+--insert into person (npersoncode,spersonname,nstatus) values(1,'peru',1);
